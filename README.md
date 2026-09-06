@@ -1,37 +1,37 @@
-### 👋 Hi, I’m Kazi Md. Al-Wakil
-### 🏚 Currently studying Computer Science & Engineering at Brac University
-### 🌱 I’m currently learning all the basics of Computer science and exploring the endless possibilites. 
-### 📍  Based in Dhaka, Bangladesh
-### 👀 **I’m interested in:**
+# Kazi Md. Al-Wakil
 
-- Research Oriented Works
-- Database Management 
-- Algorithms 
-- Web Development
-- Game Development 
-- Machine Learning
+Computer Science researcher and Lecturer interested in **Computer Vision, Medical Imaging, Multimodal & Trustworthy AI**.
 
-### **💻 I code:**
-- Java
-- Python
-- HTML, CSS
+My work focuses on applying machine learning and deep learning to real-world problems, with particular interests in **medical image analysis, signal processing, and intelligent systems**.
 
-### 📫 How to reach me:
-🔴 Mail : kazimdalwakil@gmail.com  
+## Research Interests
 
-### 📫 Social Media:
-➔ [Facebook](https://www.facebook.com/kazimohammadalwakil/)  
-➔ [Instagram](https://www.instagram.com/kazimdalwakil_/)  
-➔ [Twitter](https://twitter.com/kazimdalwakil)  
-➔ [LinkedIn](https://www.linkedin.com/in/kazi-md-al-wakil/)  
+* Machine Learning & Deep Learning
+* Computer Vision
+* Medical Imaging
+* Biomedical Signal Processing
+* Multimodal AI
+* Trustworthy AI
 
-###  Currently Working On:
-- A portfolio website
-- Two Research paper on EEG Signal processing 
+## Technical Interests
 
+* Python, Java, TypeScript
+* PyTorch, TensorFlow
+* React.js, Node.js
+* Algorithms & Data Structures
 
+## Research & Projects
 
-<!---
-kazi-md-al-wakil/kazi-md-al-wakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Medical image analysis and segmentation
+* Multi-angle ultrasound reconstruction
+* EEG signal processing and emotion classification
+* Deep learning for healthcare applications
+
+## Connect
+
+* Email: [kazimdalwakil@gmail.com](mailto:kazimdalwakil@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/kazi-md-al-wakil/
+* Wesbsite: kazimdalwakil.github.io
+
+---
+
