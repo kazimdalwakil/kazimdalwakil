@@ -30,7 +30,7 @@ My work focuses on applying machine learning and deep learning to real-world pro
 ## Connect
 
 * Email: [kazimdalwakil@gmail.com](mailto:kazimdalwakil@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/kazi-md-al-wakil/
+* LinkedIn: [https://www.linkedin.com/in/kazi-md-al-wakil/](https://www.linkedin.com/in/kazimdalwakil/)
 * Website: https://kazimdalwakil.github.io
 
 ---
